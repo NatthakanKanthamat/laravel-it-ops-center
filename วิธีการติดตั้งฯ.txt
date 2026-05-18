@@ -1,0 +1,16 @@
+
+1.npm run dev//รันหน้าล็อกอินก่อน 
+2.เปิด termina ใหม่ php artisan serv
+
+user
+user1
+user1@gmail.com
+user11111
+
+admin1
+admin1@gmail.com
+admin11111
+
+user2
+user2@gmail.com
+user22222

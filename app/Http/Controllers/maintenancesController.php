@@ -25,7 +25,9 @@ class MaintenancesController extends Controller
                 $maintenances = $query->where('user_id', auth()->id())->latest()->get();
             }
         } else {
+            
             return redirect()->route('login');
+
         }
 
         return view('maintenances.index', compact('maintenances'));
